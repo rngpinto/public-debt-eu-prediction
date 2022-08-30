@@ -1,6 +1,6 @@
 # public-debt-eu-prediction
 
-# Purpose of this study:
+## Purpose of this study:
 
 The aim of this study is to predict the evolution of Public Debt in EU in a 10 years horizon, as a basis for the measures which shall be taken to control public debt in the future;
 
